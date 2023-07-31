@@ -11,4 +11,6 @@ This is a simple Todo List web app built using HTML, CSS, and JavaScript. It all
 - CSS: Used for styling and design.
 - JavaScript: Used for the interactive features and logic of the app.
 
+#Deploy 
+https://64c7de46fae9801c78d7bf0b--enchanting-brigadeiros-4c494d.netlify.app/
 
